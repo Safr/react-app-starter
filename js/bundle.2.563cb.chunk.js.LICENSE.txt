@@ -251,49 +251,49 @@ and limitations under the License.
 
 /*! @emotion/unitless */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/classCallCheck.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/classCallCheck.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/createClass.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/createClass.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/defineProperty.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/defineProperty.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@loadable/component/dist/loadable.esm.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/@loadable/component/dist/loadable.esm.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/classCallCheck.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/classCallCheck.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/createClass.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/createClass.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/extends.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/extends.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutProperties.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutProperties.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/slicedToArray.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/slicedToArray.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/typeof.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/typeof.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/classnames/index.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/classnames/index.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/html-parse-stringify2/index.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/html-parse-stringify2/index.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-dom/index.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/react-dom/index.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react/index.js (<- Module is not an ECMAScript module) */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/react/index.js (<- Module is not an ECMAScript module) */
 
-/*! ModuleConcatenation bailout: Cannot concat with C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/tiny-invariant/dist/tiny-invariant.esm.js because of C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
+/*! ModuleConcatenation bailout: Cannot concat with /home/runner/work/react-app-starter/react-app-starter/node_modules/tiny-invariant/dist/tiny-invariant.esm.js because of /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js */
 
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 
-/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/core/Root.tsx (referenced with cjs require) */
+/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/runner/work/react-app-starter/react-app-starter/src/core/Root.tsx (referenced with cjs require) */
 
-/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/core/Root.tsx (referenced with cjs require), C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/modules/about/index.tsx (referenced with cjs require), C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/modules/home/index.tsx (referenced with cjs require), C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/modules/not-found/index.tsx (referenced with cjs require) */
+/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/runner/work/react-app-starter/react-app-starter/src/core/Root.tsx (referenced with cjs require), /home/runner/work/react-app-starter/react-app-starter/src/modules/about/index.tsx (referenced with cjs require), /home/runner/work/react-app-starter/react-app-starter/src/modules/home/index.tsx (referenced with cjs require), /home/runner/work/react-app-starter/react-app-starter/src/modules/not-found/index.tsx (referenced with cjs require) */
 
-/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/services/i18n/i18nContainer.ts (referenced with cjs require) */
+/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/runner/work/react-app-starter/react-app-starter/src/services/i18n/i18nContainer.ts (referenced with cjs require) */
 
-/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/services/routing/routes.ts (referenced with cjs require) */
+/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/runner/work/react-app-starter/react-app-starter/src/services/routing/routes.ts (referenced with cjs require) */
 
 /*! ModuleConcatenation bailout: Module uses injected variables (global) */
 
@@ -372,629 +372,629 @@ and limitations under the License.
   !*** (webpack)/buildin/module.js ***!
   \***********************************/
 
+/*!*****************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react/index.js ***!
+  \*****************************************************************************************/
+
 /*!*******************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/isarray/index.js ***!
   \*******************************************************************************************/
 
+/*!*******************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/topbar/topbar.js ***!
+  \*******************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-is/index.js ***!
+  \********************************************************************************************/
+
 /*!*********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/isarray/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/process/browser.js ***!
   \*********************************************************************************************/
 
 /*!*********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/topbar/topbar.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-dom/index.js ***!
+  \*********************************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/scheduler/index.js ***!
   \*********************************************************************************************/
 
 /*!**********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-is/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/classnames/index.js ***!
   \**********************************************************************************************/
 
-/*!***********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/process/browser.js ***!
-  \***********************************************************************************************/
-
-/*!***********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-dom/index.js ***!
-  \***********************************************************************************************/
-
-/*!***********************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/scheduler/index.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/prop-types/index.js ***!
+  \**********************************************************************************************/
 
 /*!************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/classnames/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/shallowequal/index.js ***!
   \************************************************************************************************/
 
-/*!************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/prop-types/index.js ***!
-  \************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/object-assign/index.js ***!
+  \*************************************************************************************************/
+
+/*!*************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/void-elements/index.js ***!
+  \*************************************************************************************************/
 
 /*!**************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/shallowequal/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/path-to-regexp/index.js ***!
   \**************************************************************************************************/
 
 /*!***************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/object-assign/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/has.js ***!
   \***************************************************************************************************/
 
 /*!***************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/void-elements/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/uid.js ***!
   \***************************************************************************************************/
 
 /*!****************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/path-to-regexp/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/html.js ***!
+  \****************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/path.js ***!
+  \****************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/task.js ***!
+  \****************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/offline-plugin/runtime.js ***!
+  \****************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-hot-loader/index.js ***!
   \****************************************************************************************************/
 
 /*!*****************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/has.js ***!
-  \*****************************************************************************************************/
-
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/uid.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/fails.js ***!
   \*****************************************************************************************************/
 
 /*!******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/html.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/export.js ***!
   \******************************************************************************************************/
 
 /*!******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/path.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/global.js ***!
   \******************************************************************************************************/
 
 /*!******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/task.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/shared.js ***!
   \******************************************************************************************************/
 
 /*!******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/offline-plugin/runtime.js ***!
-  \******************************************************************************************************/
-
-/*!******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-hot-loader/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/reflect-metadata/Reflect.js ***!
   \******************************************************************************************************/
 
 /*!*******************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/fails.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/classof.js ***!
+  \*******************************************************************************************************/
+
+/*!*******************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/is-pure.js ***!
+  \*******************************************************************************************************/
+
+/*!*******************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/iterate.js ***!
+  \*******************************************************************************************************/
+
+/*!*******************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/perform.js ***!
   \*******************************************************************************************************/
 
 /*!********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/export.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/is-array.js ***!
   \********************************************************************************************************/
 
 /*!********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/global.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/own-keys.js ***!
   \********************************************************************************************************/
 
 /*!********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/shared.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/redefine.js ***!
   \********************************************************************************************************/
 
 /*!********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/reflect-metadata/Reflect.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.promise.js ***!
+  \********************************************************************************************************/
+
+/*!********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-query-devtools/index.js ***!
   \********************************************************************************************************/
 
 /*!*********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/classof.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/an-object.js ***!
   \*********************************************************************************************************/
 
 /*!*********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/is-pure.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/is-forced.js ***!
   \*********************************************************************************************************/
 
 /*!*********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/iterate.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/is-object.js ***!
   \*********************************************************************************************************/
 
 /*!*********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/perform.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/iterators.js ***!
+  \*********************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/microtask.js ***!
+  \*********************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-length.js ***!
+  \*********************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-object.js ***!
+  \*********************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/html-parse-stringify2/index.js ***!
+  \*********************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/styled-normalize/dist/index.js ***!
   \*********************************************************************************************************/
 
 /*!**********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/is-array.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/a-function.js ***!
   \**********************************************************************************************************/
 
 /*!**********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/own-keys.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/set-global.js ***!
   \**********************************************************************************************************/
 
 /*!**********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/redefine.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/shared-key.js ***!
   \**********************************************************************************************************/
 
 /*!**********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.promise.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-integer.js ***!
   \**********************************************************************************************************/
 
 /*!**********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-query-devtools/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.array.map.js ***!
   \**********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/an-object.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/typeof.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/is-forced.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/an-instance.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/is-object.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/classof-raw.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/iterators.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/descriptors.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/microtask.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/hidden-keys.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-length.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-keys.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-object.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/set-species.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/html-parse-stringify2/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.array.join.js ***!
   \***********************************************************************************************************/
 
 /*!***********************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/styled-normalize/dist/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router/esm/react-router.js ***!
   \***********************************************************************************************************/
 
 /*!************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/a-function.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/get-built-in.js ***!
   \************************************************************************************************************/
 
 /*!************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/set-global.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/redefine-all.js ***!
   \************************************************************************************************************/
 
 /*!************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/shared-key.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/regexp-flags.js ***!
   \************************************************************************************************************/
 
 /*!************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-integer.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/shared-store.js ***!
   \************************************************************************************************************/
 
 /*!************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.array.map.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-primitive.js ***!
+  \************************************************************************************************************/
+
+/*!************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.object.keys.js ***!
+  \************************************************************************************************************/
+
+/*!************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react/cjs/react.production.min.js ***!
   \************************************************************************************************************/
 
 /*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/typeof.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/engine-is-ios.js ***!
   \*************************************************************************************************************/
 
 /*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/an-instance.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/enum-bug-keys.js ***!
   \*************************************************************************************************************/
 
 /*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/classof-raw.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/native-symbol.js ***!
   \*************************************************************************************************************/
 
 /*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/descriptors.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/history/esm/history.js + 2 modules ***!
   \*************************************************************************************************************/
 
 /*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/hidden-keys.js ***!
-  \*************************************************************************************************************/
-
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-keys.js ***!
-  \*************************************************************************************************************/
-
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/set-species.js ***!
-  \*************************************************************************************************************/
-
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.array.join.js ***!
-  \*************************************************************************************************************/
-
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router/esm/react-router.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/html-parse-stringify2/lib/parse.js ***!
   \*************************************************************************************************************/
 
 /*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/get-built-in.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-includes.js ***!
   \**************************************************************************************************************/
 
 /*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/redefine-all.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/ie8-dom-define.js ***!
   \**************************************************************************************************************/
 
 /*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/regexp-flags.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/indexed-object.js ***!
   \**************************************************************************************************************/
 
 /*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/shared-store.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/inspect-source.js ***!
   \**************************************************************************************************************/
 
 /*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-primitive.js ***!
-  \**************************************************************************************************************/
-
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.object.keys.js ***!
-  \**************************************************************************************************************/
-
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react/cjs/react.production.min.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/internal-state.js ***!
   \**************************************************************************************************************/
 
 /*!***************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/engine-is-ios.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-iteration.js ***!
   \***************************************************************************************************************/
 
 /*!***************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/enum-bug-keys.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/native-weak-map.js ***!
   \***************************************************************************************************************/
 
 /*!***************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/native-symbol.js ***!
-  \***************************************************************************************************************/
-
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/history/esm/history.js + 2 modules ***!
-  \***************************************************************************************************************/
-
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/html-parse-stringify2/lib/parse.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/promise-resolve.js ***!
   \***************************************************************************************************************/
 
 /*!****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-includes.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/createClass.js ***!
   \****************************************************************************************************************/
 
 /*!****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/ie8-dom-define.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/extends.js ***!
   \****************************************************************************************************************/
 
 /*!****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/indexed-object.js ***!
-  \****************************************************************************************************************/
-
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/inspect-source.js ***!
-  \****************************************************************************************************************/
-
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/internal-state.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-to-string.js ***!
   \****************************************************************************************************************/
 
 /*!*****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-iteration.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/engine-user-agent.js ***!
   \*****************************************************************************************************************/
 
 /*!*****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/native-weak-map.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/engine-v8-version.js ***!
   \*****************************************************************************************************************/
 
 /*!*****************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/promise-resolve.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/set-to-string-tag.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-absolute-index.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-indexed-object.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/use-symbol-as-uid.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/well-known-symbol.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.object.to-string.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/modules/es.regexp.to-string.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/html-parse-stringify2/lib/parse-tag.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/html-parse-stringify2/lib/stringify.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/prop-types/factoryWithThrowingShims.js ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
   \*****************************************************************************************************************/
 
 /*!******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/createClass.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/inheritsLoose.js ***!
   \******************************************************************************************************************/
 
 /*!******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/extends.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/slicedToArray.js ***!
   \******************************************************************************************************************/
 
 /*!******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-to-string.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/host-report-errors.js ***!
+  \******************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/i18next/dist/esm/i18next.js + 7 modules ***!
+  \******************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-is/cjs/react-is.production.min.js ***!
   \******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/engine-user-agent.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/engine-v8-version.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/set-to-string-tag.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/defineProperty.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-absolute-index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@loadable/component/dist/loadable.esm.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-indexed-object.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/get-iterator-method.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/use-symbol-as-uid.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/species-constructor.js ***!
   \*******************************************************************************************************************/
 
 /*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/well-known-symbol.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.object.to-string.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/modules/es.regexp.to-string.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/html-parse-stringify2/lib/parse-tag.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/html-parse-stringify2/lib/stringify.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/prop-types/factoryWithThrowingShims.js ***!
-  \*******************************************************************************************************************/
-
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js ***!
   \*******************************************************************************************************************/
 
 /*!********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/inheritsLoose.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/createClass.js ***!
   \********************************************************************************************************************/
 
 /*!********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/slicedToArray.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/nonIterableRest.js ***!
   \********************************************************************************************************************/
 
 /*!********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/host-report-errors.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-species-create.js ***!
   \********************************************************************************************************************/
 
 /*!********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/i18next/dist/esm/i18next.js + 7 modules ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-keys-internal.js ***!
   \********************************************************************************************************************/
 
 /*!********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-is/cjs/react-is.production.min.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-dom/cjs/react-dom.production.min.js ***!
+  \********************************************************************************************************************/
+
+/*!********************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/scheduler/cjs/scheduler.production.min.js ***!
+  \********************************************************************************************************************/
+
+/*!********************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/tiny-invariant/dist/tiny-invariant.esm.js ***!
   \********************************************************************************************************************/
 
 /*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/arrayWithHoles.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/arrayLikeToArray.js ***!
   \*********************************************************************************************************************/
 
 /*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@emotion/stylis/dist/stylis.browser.esm.js ***!
   \*********************************************************************************************************************/
 
 /*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/defineProperty.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/function-bind-context.js ***!
   \*********************************************************************************************************************/
 
 /*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@loadable/component/dist/loadable.esm.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/to-string-tag-support.js ***!
   \*********************************************************************************************************************/
 
 /*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/get-iterator-method.js ***!
-  \*********************************************************************************************************************/
-
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/species-constructor.js ***!
-  \*********************************************************************************************************************/
-
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-dom/esm/react-router-dom.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-i18next/dist/es/index.js + 9 modules ***!
   \*********************************************************************************************************************/
 
 /*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/createClass.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js ***!
   \**********************************************************************************************************************/
 
 /*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/nonIterableRest.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-method-is-strict.js ***!
   \**********************************************************************************************************************/
 
 /*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-species-create.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/new-promise-capability.js ***!
   \**********************************************************************************************************************/
 
 /*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-keys-internal.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-define-property.js ***!
   \**********************************************************************************************************************/
 
 /*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-dom/cjs/react-dom.production.min.js ***!
-  \**********************************************************************************************************************/
-
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/scheduler/cjs/scheduler.production.min.js ***!
-  \**********************************************************************************************************************/
-
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/tiny-invariant/dist/tiny-invariant.esm.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/mini-create-react-context/dist/esm/index.js ***!
   \**********************************************************************************************************************/
 
 /*!***********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/arrayLikeToArray.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
   \***********************************************************************************************************************/
 
 /*!***********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@emotion/stylis/dist/stylis.browser.esm.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/document-create-element.js ***!
   \***********************************************************************************************************************/
 
 /*!***********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/function-bind-context.js ***!
-  \***********************************************************************************************************************/
-
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/to-string-tag-support.js ***!
-  \***********************************************************************************************************************/
-
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-i18next/dist/es/index.js + 9 modules ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-topbar-progress-indicator/src/index.js ***!
   \***********************************************************************************************************************/
 
 /*!************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/is-array-iterator-method.js ***!
   \************************************************************************************************************************/
 
 /*!************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-method-is-strict.js ***!
-  \************************************************************************************************************************/
-
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/new-promise-capability.js ***!
-  \************************************************************************************************************************/
-
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-define-property.js ***!
-  \************************************************************************************************************************/
-
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/mini-create-react-context/dist/esm/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/require-object-coercible.js ***!
   \************************************************************************************************************************/
 
 /*!*************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js ***!
   \*************************************************************************************************************************/
 
 /*!*************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/document-create-element.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@emotion/unitless/dist/unitless.browser.esm.js ***!
   \*************************************************************************************************************************/
 
 /*!*************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-topbar-progress-indicator/src/index.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-router-config/esm/react-router-config.js ***!
   \*************************************************************************************************************************/
 
 /*!**************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/is-array-iterator-method.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
   \**************************************************************************************************************************/
 
 /*!**************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/require-object-coercible.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/create-property-descriptor.js ***!
+  \**************************************************************************************************************************/
+
+/*!**************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/native-promise-constructor.js ***!
   \**************************************************************************************************************************/
 
 /*!***************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/interopRequireWildcard.js ***!
   \***************************************************************************************************************************/
 
 /*!***************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@emotion/unitless/dist/unitless.browser.esm.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-method-uses-to-length.js ***!
   \***************************************************************************************************************************/
 
 /*!***************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-router-config/esm/react-router-config.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/copy-constructor-properties.js ***!
   \***************************************************************************************************************************/
 
 /*!****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \****************************************************************************************************************************/
-
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/create-property-descriptor.js ***!
-  \****************************************************************************************************************************/
-
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/native-promise-constructor.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutProperties.js ***!
   \****************************************************************************************************************************/
 
 /*!*****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/interopRequireWildcard.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-get-own-property-names.js ***!
   \*****************************************************************************************************************************/
 
 /*!*****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-method-uses-to-length.js ***!
-  \*****************************************************************************************************************************/
-
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/copy-constructor-properties.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-property-is-enumerable.js ***!
   \*****************************************************************************************************************************/
 
 /*!******************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutProperties.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
+  \******************************************************************************************************************************/
+
+/*!******************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
+  \******************************************************************************************************************************/
+
+/*!******************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/create-non-enumerable-property.js ***!
   \******************************************************************************************************************************/
 
 /*!*******************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-get-own-property-names.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js ***!
   \*******************************************************************************************************************************/
 
 /*!*******************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-property-is-enumerable.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js ***!
+  \*******************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
   \*******************************************************************************************************************************/
 
 /*!********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/array-method-has-species-support.js ***!
   \********************************************************************************************************************************/
 
 /*!********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/check-correctness-of-iteration.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
   \********************************************************************************************************************************/
 
 /*!********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/create-non-enumerable-property.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-toastify/dist/react-toastify.esm.js + 3 modules ***!
   \********************************************************************************************************************************/
 
 /*!*********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js ***!
-  \*********************************************************************************************************************************/
-
-/*!*********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js ***!
-  \*********************************************************************************************************************************/
-
-/*!*********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js ***!
   \*********************************************************************************************************************************/
 
 /*!**********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/array-method-has-species-support.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
   \**********************************************************************************************************************************/
 
 /*!**********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
-  \**********************************************************************************************************************************/
-
-/*!**********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-toastify/dist/react-toastify.esm.js + 3 modules ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/styled-components/dist/styled-components.browser.esm.js ***!
   \**********************************************************************************************************************************/
 
 /*!***********************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/react-hot-loader/dist/react-hot-loader.production.min.js ***!
   \***********************************************************************************************************************************/
 
-/*!************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
-  \************************************************************************************************************************************/
-
-/*!************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/styled-components/dist/styled-components.browser.esm.js ***!
-  \************************************************************************************************************************************/
-
 /*!*************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/react-hot-loader/dist/react-hot-loader.production.min.js ***!
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
   \*************************************************************************************************************************************/
 
-/*!***************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \***************************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
+  \**************************************************************************************************************************************/
 
-/*!****************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js + 1 modules ***!
+  \***********************************************************************************************************************************************/
 
-/*!*************************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js + 1 modules ***!
-  \*************************************************************************************************************************************************/
-
-/*!********************************************************************************************************************************************************!*\
-  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js ***!
-  \********************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /home/runner/work/react-app-starter/react-app-starter/node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js ***!
+  \******************************************************************************************************************************************************/
 
 /** @license React v0.19.1
  * scheduler.production.min.js
