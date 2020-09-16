@@ -1,0 +1,30 @@
+{
+  "processors": [
+    "stylelint-processor-styled-components"
+  ],
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-styled-components"
+  ],
+  "rules": {
+    'at-rule-no-unknown': null,
+    "block-no-empty": true,
+    "color-hex-case": "lower",
+    "color-hex-length": "short",
+    "color-named": "never",
+    "color-no-invalid-hex": true,
+    "declaration-colon-newline-after": null,
+    "declaration-block-no-duplicate-properties": null,
+    "function-url-quotes": "always",
+    "font-family-name-quotes": "always-where-recommended",
+    "indentation": 2,
+    "no-descending-specificity": null,
+    "no-duplicate-selectors": true,
+    "number-leading-zero": "always",
+    "selector-combinator-space-after": "always",
+    "selector-max-id": 25,
+    "selector-no-qualifying-type": true,
+    "string-quotes": "single",
+    "value-keyword-case": null
+  }
+}

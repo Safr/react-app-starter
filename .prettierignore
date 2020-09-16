@@ -1,0 +1,12 @@
+/.git
+/public
+/flow-typed
+build/
+coverage
+dist/
+package.json
+package-lock.json
+node_modules/
+.vscode
+.cache
+package.json

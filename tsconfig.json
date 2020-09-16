@@ -1,0 +1,71 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "allowUnreachableCode": false,
+      "alwaysStrict": true,
+      "baseUrl": "./",
+      "downlevelIteration": true,                  /* Base directory to resolve non-absolute module names. */
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "importHelpers": true,
+      "jsx": "react",
+      "lib": [
+        "es2020",
+        "dom",
+        "scripthost"
+      ],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noEmit": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "outDir": "./dist",
+      "paths": {
+        "*": ["src/*"]
+      },
+      "pretty": true,
+      "removeComments": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "strict": true,
+      "strictNullChecks": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "target": "es6",
+      "types": ["node", "reflect-metadata", "jest", "cypress", "@testing-library/jest-dom", "@types/testing-library__cypress"],
+      "typeRoots": [
+        "node_modules/@types",
+        "@types"
+      ],
+    },
+    "exclude": [
+      "node_modules",
+      "build",
+      "dist",
+      "jest"
+    ],
+    "include": [
+      "src/**/*",
+      "express.ts",
+      "webpack",
+      "webpack/.babelrc.js",
+      "cypress/**/*",
+      "jest.config.js",
+      "jest.setup.ts",
+      ".eslintrc.js",
+      ".babelrc.js",
+      ".storybook/**/*",
+      "@types/**/*"
+    ],
+    "awesomeTypescriptLoaderOptions": {
+      "reportFiles": [
+          "./src/**/*"
+      ]
+    }  
+  }
+  

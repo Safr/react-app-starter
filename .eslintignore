@@ -1,0 +1,10 @@
+/.git
+/public
+/flow-typed
+build/
+coverage
+dist/
+static
+node_modules/
+.vscode
+.cache
