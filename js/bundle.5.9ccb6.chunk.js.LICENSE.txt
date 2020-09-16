@@ -1,0 +1,31 @@
+/*! ./meta */
+
+/*! @babel/runtime/helpers/interopRequireDefault */
+
+/*! ModuleConcatenation bailout: Module is not an ECMAScript module */
+
+/*! all exports used */
+
+/*! no static exports found */
+
+/*! react */
+
+/*! react-helmet */
+
+/*! react-i18next */
+
+/*! react-router-dom */
+
+/*! services/meta */
+
+/*!******************************************************************************************!*\
+  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/services/meta/index.ts ***!
+  \******************************************************************************************/
+
+/*!******************************************************************************************!*\
+  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/services/meta/meta.tsx ***!
+  \******************************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** C:/Users/User/Private/Frontend/MyApps/react-app-starter/src/modules/about/index.tsx ***!
+  \*******************************************************************************************/
