@@ -3,9 +3,9 @@
   "name": "@safr/react-starter",
   "description": "Fully enhanced React Starter for SPA apps",
   "icons": {
-    "60": "/assets/firefox_app_60x60.png",
-    "128": "/assets/firefox_app_128x128.png",
-    "512": "/assets/firefox_app_512x512.png"
+    "60": "/react-app-starter/assets/firefox_app_60x60.png",
+    "128": "/react-app-starter/assets/firefox_app_128x128.png",
+    "512": "/react-app-starter/assets/firefox_app_512x512.png"
   },
   "developer": {
     "name": "Safr",
