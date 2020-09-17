@@ -1,7 +1,6 @@
 {
   "name": "@safr/react-starter",
   "version": "1.0.0",
-  "private": false,
   "description": "Fully enhanced React Starter for SPA apps",
   "keywords": [
     "babel",
