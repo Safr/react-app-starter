@@ -21,18 +21,24 @@ Scalable React, TypeScript, Styled-components, Storybook, Cypress and Testing Li
 - Nodejs v12
 - npm v6
 
-### ⚙️Install
+### ⚙️Installation
 
 #### Clone this repo
 
-```
+```sh
 $ git clone https://github.com/safr/react-app-starter.git
 ```
 
 #### Install dependencies
 
-```
+```sh
 npm install
+```
+
+### ⚙️Installation via NPM (2)
+
+```sh
+npm install @safr/react-starter
 ```
 
 ### Usage
