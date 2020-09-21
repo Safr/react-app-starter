@@ -7,7 +7,7 @@ const prettierOptions = JSON.parse(fs.readFileSync(path.resolve(__dirname, '.pre
 module.exports = {
   root: true,
   env: {
-    es6: true,
+    es2020: true,
     jest: true,
     browser: true,
     node: true,
@@ -96,6 +96,7 @@ module.exports = {
         extensions: ['.js', '.jsx', '.ts', '.tsx', '*'],
         paths: ['./src'],
       },
+      typescript: {},
     },
     react: {
       version: 'detect', // Tells eslint-plugin-react to automatically detect the version of React to use
