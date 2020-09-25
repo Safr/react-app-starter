@@ -21,6 +21,7 @@
     "no-descending-specificity": null,
     "no-duplicate-selectors": true,
     "number-leading-zero": "always",
+    "property-no-vendor-prefix": null,
     "selector-combinator-space-after": "always",
     "selector-max-id": 25,
     "selector-no-qualifying-type": true,
