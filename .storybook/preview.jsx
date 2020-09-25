@@ -6,7 +6,7 @@ import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
 import { withInfo } from '@storybook/addon-info';
 import { withKnobs } from '@storybook/addon-knobs';
 import { withPropsTable } from 'storybook-addon-react-docgen';
-import { ThemeProvider } from 'styled-components';
+import styled, { ThemeProvider } from 'styled-components';
 import { theme } from '../src/common/styles/theme';
 import { GlobalStyles } from '../src/common/styles/global';
 
@@ -26,6 +26,14 @@ addParameters({
     viewports: INITIAL_VIEWPORTS,
   },
 });
+
+const Center = styled.div`
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+`;
 
 addDecorator((storyFn) => (
   <ThemeProvider theme={theme}>
