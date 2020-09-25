@@ -36,4 +36,21 @@ export const GlobalStyles = createGlobalStyle`
     flex: 1;
     height: 100%;
   }
+
+  textarea {
+    resize: none;
+    overflow: auto;
+  }
+
+  img {
+    border-style: none;
+  }
+
+  [type='button'],
+  [type='reset'],
+  [type='submit'],
+  button {
+    -webkit-appearance: button;
+    -webkit-tap-highlight-color: transparent;
+  }
 `;
