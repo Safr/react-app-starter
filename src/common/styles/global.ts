@@ -7,7 +7,8 @@ export const GlobalStyles = createGlobalStyle`
   html {
     box-sizing: border-box;
     height: 100%;
-    scroll-behavior: smooth;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
   }
 
   *,
@@ -30,6 +31,7 @@ export const GlobalStyles = createGlobalStyle`
     min-height: 100%;
     font-family: 'Tt norms', sans-serif;
     scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
   }
 
   #root {
