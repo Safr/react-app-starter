@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 7fc03
+# c5421
 
 CACHE:
 /assets/favicon-16x16.png
@@ -64,7 +64,7 @@ CACHE:
 /assets/manifest.webapp
 /assets/browserconfig.xml
 /assets/yandex-browser-manifest.json
-/js/bundle.0.8fc82.chunk.js
+/js/bundle.0.46320.chunk.js
 /js/bundle.65bf7.bundle.js?v=4
 /js/bundle.2.563cb.chunk.js
 /css/3.458d4.3.css
@@ -92,7 +92,7 @@ CACHE:
 /assets/images/favicon.png
 /assets/images/mstile-150x150.png
 /browserconfig.xml
-/js/bundle.0.8fc82.chunk.js.LICENSE.txt
+/js/bundle.0.46320.chunk.js.LICENSE.txt
 /js/bundle.2.563cb.chunk.js.LICENSE.txt
 /js/bundle.3.7f8d1.chunk.js.LICENSE.txt
 /js/bundle.4.cd8a7.chunk.js.LICENSE.txt
