@@ -61,6 +61,8 @@ stats.json
 # Code coverage
 coverage/
 .coveralls.yml
+/cypress/videos
+/cypress/screenshots
 
 # Thumbnails
 ._*
