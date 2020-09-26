@@ -28,7 +28,7 @@
   "main": "src/index.tsx",
   "husky": {
     "hooks": {
-      "pre-commit": "tsc --noEmit && lint-staged"
+      "pre-commit": "tsc --noEmit --skipLibCheck && lint-staged"
     }
   },
   "lint-staged": {
