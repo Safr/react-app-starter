@@ -12,6 +12,21 @@
 ## These files are text and should be normalized (Convert crlf => lf)
 #
 
+# For the following file types, normalize line endings to LF on
+# checkin and prevent conversion to CRLF when they are checked out
+# (this is required in order to prevent newline related issues like,
+# for example, after the build script is run)
+.*      text eol=lf
+*.css   text eol=lf
+*.html  text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.sh    text eol=lf
+*.txt   text eol=lf
+*.xml   text eol=lf
+*.map   text eol=lf
+
 # source code
 *.php text
 *.css text
@@ -19,7 +34,6 @@
 *.scss text
 *.less text
 *.styl text
-*.js text eol=lf
 *.coffee text
 *.json text
 *.htm text
