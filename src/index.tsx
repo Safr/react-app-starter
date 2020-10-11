@@ -6,7 +6,7 @@ import offlineRuntime from 'offline-plugin/runtime';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { getEnv } from 'core/getEnv';
-import Root from 'core/Root';
+import Root from 'core/root';
 
 const { isProduction, withHot } = getEnv();
 

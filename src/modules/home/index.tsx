@@ -1,12 +1,12 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { DIContext } from 'core/di';
 import { theme } from 'common/styles/theme';
 import { Button } from 'common/ui/button';
-import { Meta } from 'services/meta';
-import { notify } from 'services/notifier/notify';
 
 function HomePage(): React.ReactElement<Record<string, unknown>> {
+  const { Meta, notify } = useContext(DIContext);
   const { t } = useTranslation();
   return (
     <>

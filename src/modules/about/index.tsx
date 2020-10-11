@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { Meta } from 'services/meta';
+import { DIContext } from 'core/di';
 
 function AboutPage(): React.ReactElement<Record<string, unknown>> {
+  const { Meta } = useContext(DIContext);
   const { t } = useTranslation();
   return (
     <>

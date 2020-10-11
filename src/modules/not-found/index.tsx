@@ -1,9 +1,9 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import React from 'react';
+import React, { useContext } from 'react';
 import { useHistory } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import styled from 'styled-components';
-import { Meta } from 'services/meta';
+import { DIContext } from 'core/di';
 import { Logo } from 'common/ui/icons';
 
 const Wrapper = styled.div`
@@ -41,6 +41,7 @@ const GoBackButton = styled.button`
 `;
 
 function NotFoundPage(): React.ReactElement<any, any> {
+  const { Meta } = useContext(DIContext);
   const { t } = useTranslation();
   const history = useHistory();
 
