@@ -16,8 +16,8 @@ function render(component: React.ReactElement): void {
 
 /* Hot Module Replacement API */
 if (withHot) {
-  (module as any).hot.accept(['./core/Root'], () => {
-    const NextApp: typeof Root = require('core/Root').Root;
+  (module as any).hot.accept(['./core/root'], () => {
+    const NextApp: typeof Root = require('core/root').Root;
     render(
       <React.StrictMode>
         <NextApp />
