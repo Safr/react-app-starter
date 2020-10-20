@@ -8,7 +8,15 @@ export const loadJavaScript = () => ({
       },
       {
         test: /\.tsx?$/,
-        use: ['babel-loader', 'awesome-typescript-loader'],
+        use: [
+          {
+            loader: 'babel-loader',
+            options: {
+              cacheDirectory: true,
+            },
+          },
+          'awesome-typescript-loader',
+        ],
       },
       {
         exclude: /node_modules/,
