@@ -49,9 +49,24 @@ export default () => {
           },
         },
         publicPath: '/',
-        stats: { colors: true },
+        stats: {
+          assets: true,
+          colors: true,
+          errors: true,
+          errorDetails: true,
+          modules: false,
+          performance: true,
+          hash: false,
+          version: false,
+          timings: true,
+          warnings: true,
+          children: false,
+        },
         headers: {
           'Access-Control-Allow-Origin': '*', // Allow CORS
+        },
+        watchOptions: {
+          poll: true,
         },
       },
       devtool: 'cheap-module-eval-source-map',
