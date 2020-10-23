@@ -1,5 +1,6 @@
 export const en = {
   buttonText: 'Button text',
+  date: '{{date, date(day: numeric; month: short; year: numeric)}}',
   page: {
     home: {
       title: 'Main',

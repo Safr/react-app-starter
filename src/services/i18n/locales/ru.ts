@@ -1,5 +1,6 @@
 export const ru = {
   buttonText: 'Текст кнопки',
+  date: '{{date, date(day: numeric; month: short; year: numeric)}}',
   page: {
     home: {
       title: 'Главная',

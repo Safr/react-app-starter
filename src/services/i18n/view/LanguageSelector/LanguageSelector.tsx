@@ -2,6 +2,7 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { LANGUAGES } from '../../languages';
 import { Lang } from '../../types';
 import {
   SelectWrapper,
@@ -11,11 +12,6 @@ import {
   CurrentLanguage,
   ArrowElement,
 } from './LanguageSelector.styles';
-
-const LANGUAGES = {
-  en: 'English',
-  ru: 'Русский',
-} as const;
 
 interface IProps {
   currentLanguage?: Lang;
