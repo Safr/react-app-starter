@@ -1,8 +1,17 @@
 import { lazy } from '@loadable/component';
 
-const HomePage = lazy(() => import(/* webpackPrefetch: true */ '../../modules/home'));
-const AboutPage = lazy(() => import(/* webpackPrefetch: true */ '../../modules/about'));
-const NotFoundPage = lazy(() => import('../../modules/not-found'));
+const HomePage = lazy(
+  () => import(/* webpackChunkName: 'home' */ /* webpackPrefetch: true */ '../../modules/home'),
+);
+const AboutPage = lazy(
+  () => import(/* webpackChunkName: 'about' */ /* webpackPrefetch: true */ '../../modules/about'),
+);
+const NotFoundPage = lazy(
+  () =>
+    import(
+      /* webpackChunkName: '404 page' */ /* webpackPrefetch: true */ '../../modules/not-found'
+    ),
+);
 
 const routes = [
   {
