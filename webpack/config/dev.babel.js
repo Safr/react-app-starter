@@ -4,6 +4,7 @@ require('@babel/register');
 // Core
 import path from 'path';
 import merge from 'webpack-merge';
+import ESLintWebpackPlugin from 'eslint-webpack-plugin';
 import ForkTsCheckerWebpackPlugin from 'fork-ts-checker-webpack-plugin';
 // Constants
 import { SOURCE_DIRECTORY, HOST, PORT } from '../constants';
@@ -72,6 +73,7 @@ export default () => {
       devtool: 'cheap-module-eval-source-map',
       entry,
       plugins: [
+        new ESLintWebpackPlugin(),
         new ForkTsCheckerWebpackPlugin({
           async: false,
           typescript: {
