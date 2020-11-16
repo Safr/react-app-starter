@@ -1,9 +1,28 @@
+/* eslint-disable import/order */
 // Core
 import path from 'path';
 import FaviconsWebpackPlugin from 'favicons-webpack-plugin';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
+import PreloadWebpackPlugin from 'preload-webpack-plugin';
 // Constants
 import { SOURCE_DIRECTORY } from '../constants';
+
+const FILE_LOADER = 'FILE_LOADER';
+const FILE_LOADER_TARGET = 'images/[name].[hash:5].[ext]';
+
+export const preloadAssets = () => ({
+  plugins: [
+    new PreloadWebpackPlugin({
+      rel: 'preload',
+      as(entry) {
+        if (/\.css$/.test(entry)) return 'style';
+        if (/\.woff$/.test(entry)) return 'font';
+        if (/\.png$/.test(entry)) return 'image';
+        return 'script';
+      },
+    }),
+  ],
+});
 
 export const connectFavicons = () => ({
   plugins: [
@@ -59,9 +78,9 @@ export const loadImages = () => ({
         test: /\.(gif|png|jpe?g)$/,
         use: [
           {
-            loader: 'file-loader',
+            loader: `${FILE_LOADER}`,
             options: {
-              name: 'images/[name].[hash:5].[ext]',
+              name: `${FILE_LOADER_TARGET}`,
             },
           },
         ],
@@ -81,9 +100,9 @@ export const loadSvg = () => ({
         use: [
           '@svgr/webpack',
           {
-            loader: 'file-loader',
+            loader: `${FILE_LOADER}`,
             options: {
-              name: 'images/[name].[hash:5].[ext]',
+              name: `${FILE_LOADER_TARGET}`,
             },
           },
         ],
@@ -96,9 +115,9 @@ export const loadSvg = () => ({
         },
         use: [
           {
-            loader: 'file-loader',
+            loader: `${FILE_LOADER}`,
             options: {
-              name: 'images/[name].[hash:5].[ext]',
+              name: `${FILE_LOADER_TARGET}`,
             },
           },
         ],
@@ -118,7 +137,7 @@ export const loadFonts = () => ({
         test: /\.(eot|otf|ttf|woff|woff2)$/,
         use: [
           {
-            loader: 'file-loader',
+            loader: `${FILE_LOADER}`,
             options: {
               name: 'fonts/[name].[hash:5].[ext]',
             },

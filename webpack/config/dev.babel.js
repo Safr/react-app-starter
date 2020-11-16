@@ -89,7 +89,6 @@ export default () => {
     },
     modules.connectHMR(),
     modules.connectFriendlyErrors(),
-    modules.filterDuplicates(),
     modules.loadDevCss(),
     // modules.openBrowser(),
   );

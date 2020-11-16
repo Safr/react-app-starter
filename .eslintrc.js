@@ -14,6 +14,8 @@ module.exports = {
   },
 
   extends: [
+    'plugin:compat/recommended',
+    'plugin:sonarjs/recommended',
     'plugin:@typescript-eslint/recommended',
     'airbnb-typescript',
     'airbnb/hooks',
@@ -45,6 +47,7 @@ module.exports = {
     'react-hooks',
     'jest-dom',
     'testing-library',
+    'sonarjs',
   ],
   rules: {
     'prettier/prettier': ['error', prettierOptions],

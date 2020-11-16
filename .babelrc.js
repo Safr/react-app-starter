@@ -62,6 +62,7 @@ module.exports = api => {
     ['@babel/plugin-proposal-private-methods', { loose: false }],
 
     '@babel/plugin-syntax-dynamic-import',
+    '@babel/plugin-transform-react-jsx-source',
     '@babel/plugin-transform-runtime',
     [
       '@babel/plugin-transform-modules-commonjs',
@@ -79,6 +80,12 @@ module.exports = api => {
       },
     ],
     'transform-es2015-modules-commonjs',
+    [
+      'module-resolver',
+      {
+        root: ['./src'],
+      },
+    ],
   ];
 
   if (env === 'development') {

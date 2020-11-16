@@ -2,6 +2,7 @@
 import { ContextReplacementPlugin, HashedModuleIdsPlugin } from 'webpack';
 import CompressionPlugin from 'compression-webpack-plugin';
 import DuplicatePackageCheckerPlugin from 'duplicate-package-checker-webpack-plugin';
+import UnusedFilesWebpackPlugin from 'unused-files-webpack-plugin';
 import CacheManifestPlugin from 'cachemanifest-webpack-plugin';
 import OptimizeCSSAssetsPlugin from 'optimize-css-assets-webpack-plugin';
 import TerserPlugin from 'terser-webpack-plugin';
@@ -118,6 +119,10 @@ export const filterMomentLocales = () => ({
 
 export const filterDuplicates = () => ({
   plugins: [new DuplicatePackageCheckerPlugin()],
+});
+
+export const filterUnusedFiles = () => ({
+  plugins: [new UnusedFilesWebpackPlugin()],
 });
 
 export const cacheWebpackChunks = () => ({

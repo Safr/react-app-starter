@@ -70,8 +70,11 @@ export default () => {
     modules.connectHtml(),
     modules.connectFavicons(),
     modules.filterMomentLocales(),
+    modules.filterDuplicates(),
+    modules.filterUnusedFiles(),
     modules.provideGlobals(),
     modules.cacheWebpackChunks(),
+    // modules.preloadAssets(),
     modules.provideWebManifest(),
     modules.providePWA(),
   );
