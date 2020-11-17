@@ -79,7 +79,6 @@ module.exports = api => {
         preprocess: true,
       },
     ],
-    'transform-es2015-modules-commonjs',
     [
       'module-resolver',
       {
