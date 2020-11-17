@@ -87,6 +87,8 @@ module.exports = {
     ],
     'react/prop-types': 'off',
     'react/require-default-props': 'off',
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'warn',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/no-var-requires': 'off',
   },
