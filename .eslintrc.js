@@ -15,6 +15,7 @@ module.exports = {
 
   extends: [
     'plugin:compat/recommended',
+    'plugin:jest/recommended',
     'plugin:sonarjs/recommended',
     'plugin:@typescript-eslint/recommended',
     'airbnb-typescript',
@@ -45,6 +46,7 @@ module.exports = {
     'prettier',
     'styled-components-config',
     'react-hooks',
+    'jest',
     'jest-dom',
     'testing-library',
     'sonarjs',

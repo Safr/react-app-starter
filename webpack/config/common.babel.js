@@ -9,6 +9,7 @@ import { SOURCE_DIRECTORY, BUILD_DIRECTORY } from '../constants';
 // Modules
 import * as modules from '../modules';
 
+// eslint-disable-next-line import/no-default-export
 export default () => {
   const { NODE_ENV } = process.env;
   const IS_DEVELOPMENT = NODE_ENV === 'development';

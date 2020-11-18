@@ -23,6 +23,7 @@ const entry = [
   'webpack/hot/only-dev-server', // bundle the client for hot reloading, only- means to only hot reload for successful updates
   SOURCE_DIRECTORY, // the entry point of our app
 ];
+// eslint-disable-next-line import/no-default-export
 export default () => {
   return merge(
     getCommonConfig(),
