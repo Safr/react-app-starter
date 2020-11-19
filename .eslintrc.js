@@ -40,6 +40,7 @@ module.exports = {
   },
   plugins: [
     '@typescript-eslint',
+    'babel',
     'react',
     'react-hooks',
     'jest',
