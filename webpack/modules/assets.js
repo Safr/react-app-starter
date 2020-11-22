@@ -7,7 +7,7 @@ import PreloadWebpackPlugin from 'preload-webpack-plugin';
 // Constants
 import { SOURCE_DIRECTORY } from '../constants';
 
-const FILE_LOADER = 'FILE_LOADER';
+const FILE_LOADER = 'file-loader';
 const FILE_LOADER_TARGET = 'images/[name].[hash:5].[ext]';
 
 export const preloadAssets = () => ({
@@ -71,6 +71,21 @@ export const connectHtml = () => ({
   ],
 });
 
+export const loadHTML = () => ({
+  module: {
+    rules: [
+      {
+        test: /\.(html)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'html-loader',
+          options: { minimize: true },
+        },
+      },
+    ],
+  },
+});
+
 export const loadImages = () => ({
   module: {
     rules: [
@@ -100,13 +115,31 @@ export const loadSvg = () => ({
         use: [
           '@svgr/webpack',
           {
-            loader: `${FILE_LOADER}`,
+            loader: 'url-loader',
             options: {
-              name: `${FILE_LOADER_TARGET}`,
+              limit: 10000,
+              name: FILE_LOADER_TARGET,
+              mimetype: 'image/svg+xml',
             },
           },
+          'svgo-loader',
         ],
       },
+      // {
+      //   test: /\.svg$/,
+      //   issuer: {
+      //     test: /\.js$/,
+      //   },
+      //   use: [
+      //     '@svgr/webpack',
+      //     {
+      //       loader: `${FILE_LOADER}`,
+      //       options: {
+      //         name: `${FILE_LOADER_TARGET}`,
+      //       },
+      //     },
+      //   ],
+      // },
       {
         test: /\.svg$/,
         exclude: [/-inline\.svg$/],

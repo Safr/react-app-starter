@@ -64,6 +64,7 @@ export default () => {
       target: 'web', // Make web variables accessible to webpack, e.g. window
     },
     modules.defineEnvVariables(),
+    modules.loadHTML(),
     modules.loadJavaScript(),
     modules.loadFonts(),
     modules.loadImages(),

@@ -1,8 +1,21 @@
 import { createGlobalStyle } from 'styled-components';
 import normalize from 'styled-normalize';
+import PTSansWoff from 'common/assets/fonts/PTSans_Regular.woff';
+import PTSansWoff2 from 'common/assets/fonts/PTSans_Regular.woff2';
 
 export const GlobalStyles = createGlobalStyle`
   ${normalize}
+
+  @font-face {
+    font-family: 'PT Sans';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: local('PT Sans'),
+      local('PT Sans'),
+      url(${PTSansWoff2}) format('woff2'),
+      url(${PTSansWoff}) format('woff');
+  }
 
   html {
     box-sizing: border-box;
@@ -31,7 +44,12 @@ export const GlobalStyles = createGlobalStyle`
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    font-family: 'Tt norms', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
   }
