@@ -4,6 +4,7 @@ import WebpackBar from 'webpackbar';
 import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer';
 import { CleanWebpackPlugin } from 'clean-webpack-plugin';
 import FriendlyErrorsWebpackPlugin from 'friendly-errors-webpack-plugin';
+import ReactRefreshWebpackPlugin from '@pmmmwh/react-refresh-webpack-plugin';
 // import OpenBrowserPlugin from 'open-browser-webpack-plugin';
 // Constants
 import { PROJECT_ROOT } from '../constants';
@@ -17,7 +18,10 @@ export const connectFriendlyErrors = () => ({
 });
 
 export const connectHMR = () => ({
-  plugins: [new HotModuleReplacementPlugin()],
+  plugins: [
+    new ReactRefreshWebpackPlugin({ overlay: { sockIntegration: 'whm' } }),
+    new HotModuleReplacementPlugin(),
+  ],
 });
 
 export const cleanDirectories = () => ({
