@@ -89,6 +89,7 @@ module.exports = api => {
 
   if (env === 'development') {
     plugins.push('react-hot-loader/babel');
+    plugins.push('react-refresh/babel');
   }
 
   if (env === 'production') {

@@ -12,7 +12,9 @@ export const loadJavaScript = () => ({
           {
             loader: 'babel-loader',
             options: {
+              cacheCompression: process.env.NODE_ENV === 'production',
               cacheDirectory: true,
+              compact: process.env.NODE_ENV === 'production',
             },
           },
           'awesome-typescript-loader',
